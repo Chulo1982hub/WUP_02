@@ -49,6 +49,22 @@ The graph shows the cultivation method c52 produces more VitC cabbaage
 
 ### Numerical Descriptive Results
 
+numerical(vitc~fertiizer)
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+The table shows the cultivation method of c52 produces more VitC than c39 method
+
+
+
+
+
+
+
+
+
+
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
